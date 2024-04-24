@@ -22,7 +22,7 @@ typedef uint32_t in_addr_t;
 #include <netdb.h>
 #endif
 
-#define REGIST_PORT 9295
+#define REGIST_PORT 19295
 
 #define SEARCH_REQUEST_SLEEP_MS 100
 #define REGIST_SEARCH_TIMEOUT_MS 3000

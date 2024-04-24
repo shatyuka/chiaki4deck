@@ -27,7 +27,7 @@
 #include "pb_utils.h"
 
 
-#define STREAM_CONNECTION_PORT 9296
+#define STREAM_CONNECTION_PORT 19296
 
 #define EXPECT_TIMEOUT_MS 5000
 

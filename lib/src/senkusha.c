@@ -26,7 +26,7 @@
 #endif
 
 
-#define SENKUSHA_PORT 9297
+#define SENKUSHA_PORT 19297
 
 #define EXPECT_TIMEOUT_MS 5000
 
